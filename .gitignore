@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+*.swp
+
+# Salesforce / SFDX
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
